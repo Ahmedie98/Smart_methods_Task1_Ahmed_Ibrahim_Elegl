@@ -1,6 +1,4 @@
-@@ -1,2 +1,16 @@
-# Smart_methods_Task1_Ahmed_Ibrahim_Elegl
- المشروع الاول في التدريب الصيفي للاساليب الذكية، 
+
 
 # _Smart methods: Project 1_
 
